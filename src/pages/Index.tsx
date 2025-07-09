@@ -34,7 +34,7 @@ const Index = () => {
       <section id="home" className="px-6 py-20 text-center text-white">
         <div className="max-w-4xl mx-auto">
           <img
-            src="/img/02c1294d-02a1-4c20-8832-0e4da9c6cb35.jpg"
+            src="/img/6591bf5c-5b3f-4544-a9c9-9fbd98a91237.jpg"
             alt="Anime Channel Hero"
             className="w-48 h-48 mx-auto mb-8 rounded-full object-cover shadow-2xl"
           />
